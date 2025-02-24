@@ -21,27 +21,18 @@ print(reverseThestring);
 
 
 
-Understand
+#U: 
+#Function will reverse a word thats the value of "theString".
+#Method reverseThestring will have the value of the value of reverseThestring
+#theString has the value of what we want to reverse.
 
-Summarize the problem in your own words.
-Identify inputs and outputs.
-Determine if input validation is needed (edge cases).
-Ask clarifying questions.
-Clues
+#C:
+#As we need to reverse a word, we will have to return s(the value of the parameteres, in this case, "Hello") but display it in reverse
+#so we must yse [::-1]
 
-Look for patterns, hints, or types of problems that indicate which coding tools to use.
-Assemble
+#S:
 
-Write pseudocode.
-Break down the problem into smaller steps.
-Outline the steps needed to solve the question.
-Solve
 
-Translate pseudocode into actual code.
-Implement the solution.
-Test it out with sample inputs.
-Examine
 
-Check the results.
-Ensure the solution is understandable at a glance.
-Consider if you can improve the performance of the solution.
+
+    
