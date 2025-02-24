@@ -8,7 +8,7 @@ def factorial (n):
     if n < 0:
         return "Not defined for negative numbers"
     #one and zero have 1 as facotrial
-    elif n == 0 or n == 1
+    elif n == 0 or n == 1:
         return 1
     else:
         result = 1
