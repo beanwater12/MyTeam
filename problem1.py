@@ -12,7 +12,7 @@ theString = "Hello"
 #declares "Hello" as the string we want to reverse.
 
 reverseThestring = stringInReverse(theString)
-#when we call "reverseThestring" the "stringInReverse" function should run, and 
+#when we call "reverseThestring" then "stringInReverse" function should run, and 
 #reverse the value of "theString" which is "Hello"
 
 print(reverseThestring);
