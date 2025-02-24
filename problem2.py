@@ -1,3 +1,8 @@
+#Understand
+#task:  Write a function to calculate the factorial of a number.
+#input: number
+#output: factorial
+
 def factorial (n):
     #Edge cases - number is negative
     if n < 0:
